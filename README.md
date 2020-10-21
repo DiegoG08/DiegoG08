@@ -1,5 +1,5 @@
 ### Hi, I'm Diego👋🏽
-<img src="https://github.com/DiegoG08/DiegoG08/blob/main/ProfileBanner.png">
+<img src="https://github.com/DiegoG08/DiegoG08/blob/main/ProfileReadmeBanner.png">
 
 <!--
 **DiegoG08/DiegoG08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
