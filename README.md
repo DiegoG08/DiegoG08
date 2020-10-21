@@ -1,4 +1,4 @@
-### Hi, I'm Diego👋🏽
+
 <img src="https://github.com/DiegoG08/DiegoG08/blob/main/ProfileReadmeBanner.png">
 
 <!--
